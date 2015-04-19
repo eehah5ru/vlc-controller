@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    retryable (1.3.6)
+    vlc-client (0.0.5)
+      retryable (~> 1.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  vlc-client
